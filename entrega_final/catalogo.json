@@ -1,0 +1,34 @@
+[
+    {
+      
+      "id": 1,
+      "nombre": "milanesa",
+      "precio": 420,
+      "stock":5
+    },
+    {
+      
+      "id": 2,
+      "nombre": "milanesa napolitana",
+      "precio": 490,
+      "stock":10
+      
+    },
+    {
+      
+      "id": 3,
+      "nombre": "canelon",
+      "precio": 420,
+      "stock":7
+      
+    },
+    {
+     
+      "id": 4,
+      "nombre": "albondiga",
+      "precio": 440,
+      "stock":10
+      
+    }
+  
+  ]
